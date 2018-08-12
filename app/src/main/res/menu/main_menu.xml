@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="xenophobe.com.booklibrary" >
+    <item android:id="@+id/refresh"
+        android:icon="@drawable/refresh"
+        android:showAsAction="always"/>
+    <item android:id="@+id/about"
+        android:icon="@drawable/about"
+        android:showAsAction="always"/>
+</menu>
